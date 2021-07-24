@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Book Management',
+    title: 'Shoes Management',
     htmlAttrs: {
       lang: 'en'
     },
@@ -78,7 +78,7 @@ export default {
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
   axios: {
-    baseUrl: 'https://lentrix.tk/corage'
+    baseUrl: 'https://lentrix.tk/ra'
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
